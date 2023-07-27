@@ -15,9 +15,14 @@
 
 ![picture](forward-ESP32.png)
 
+
 **When I put the backward link the LED connected to port 12 lights up**
+
 ![picture](backward-ESP32.png)
+
 **When I put the stop link, none of the LED lights up because it is in stop mode 👍**
+
 ![picture](stop-ESP32.png)
+
 ### you can also find the code loaded in files
 
